@@ -3,7 +3,7 @@ This is a small mailbox that notifies you when a new email comes in.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Mahina Yasutake | Henry M. Gunn High School | Software Engineering | Rising Senior
+| Mahina Y | Henry M. Gunn High School | Software Engineering | Rising Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
