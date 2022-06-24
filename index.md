@@ -18,7 +18,7 @@ My second milestone was to create the cover box of the mailbox. I had to be care
 
 or
 
-My second milestone was to set up Zappier to integrate the gmail. -- should it be the box (incomplete) or should it be the coding part?
+My second milestone was to set up Zapier to integrate the gmail. At first, I had to set up Adafruit, which was to connect Arduino IDE and Zapier. For Adafruit, it was simple because you only had to sign up and get an active key. For Zapier, it took more time than Adafruit. I had to integrade a gmail account to take datas of gmail, and create a feed to select dates of gmail. After zapier was setted up, I moved onto Arduino setup next. Libraries had to be installed, and also the set up of network configuration. The important part in config is to set the username and key I got from Adafruit, so it'll take the information from the feed. After everything was setted up, I started coding. Setting up the pins, decide the degrees of flag, and get the data. 
 
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
