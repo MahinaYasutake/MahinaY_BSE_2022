@@ -13,7 +13,13 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+
+My second milestone was to create the cover box of the mailbox. I had to be careful about the size, because it has to fit both the board and the servo motor. The wing of the servo motor had to place outside of the box so the flag part of email box will be able to move. It was difficult to accurately measure and put the parts together. One of the main cover was a wood box, and it was slightly difficult than other materials to accomodate. I had to connect the board and the motor before attaching to the box, then make a hole in box so the flag part can be made.
+
+or
+
+My second milestone was to set up Zappier to integrate the gmail. -- should it be the box (incomplete) or should it be the coding part?
+
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
