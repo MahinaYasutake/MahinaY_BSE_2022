@@ -5,7 +5,7 @@ This is a small mailbox that notifies you when a new email comes in.
 |:--:|:--:|:--:|:--:|
 | Mahina Y | Henry M. Gunn High School | Software Engineering | Rising Senior
 
-![Headstone Image]([https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg](https://cdn.thingiverse.com/renders/1f/41/8c/82/76/7b92e0bd14701f79c723e17c67761b9e_preview_featured.jpg))
+![Headstone Image](https://cdn.thingiverse.com/renders/1f/41/8c/82/76/7b92e0bd14701f79c723e17c67761b9e_preview_featured.jpg)
   
 # Final Milestone
 My final milestone was to make the cover of mailbox and adjust the flag's angles. The framework is made by wood, and it is covered by a white foam sheet. First, I had to decide where to put the motor and ESP board so it won't flip and stay in the box. The servo was supposed to be placed carefully because the flag won't be able to move smoothly if it wasn't placed in a right place.
