@@ -10,7 +10,7 @@ This is a small mailbox that notifies you when a new email comes in.
 # Final Milestone
 My final milestone was to make the cover of mailbox and adjust the flag's angles. The framework is made by wood, and it is covered by a white foam sheet. First, I had to decide where to put the motor and ESP board so it won't flip and stay in the box. The servo was supposed to be placed carefully because the flag won't be able to move smoothly if it wasn't placed in a right place.
 
-[[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}](https://video-to-markdown.marcomontalbano.com/)
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1656514576/video_to_markdown/images/youtube--yG8FlDI3Cyg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=yG8FlDI3Cyg "Final Milestone")
 
 # Second Milestone
 
