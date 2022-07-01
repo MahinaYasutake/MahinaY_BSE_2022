@@ -6,6 +6,7 @@ This is a small mailbox that notifies you when a new email comes in.
 | Mahina Y | Henry M. Gunn High School | Software Engineering | Rising Senior
 
 ![IMG_5004](https://user-images.githubusercontent.com/86208680/176695421-fcda07d8-e1f1-4cf7-bb2f-a0a61d2d73a0.JPG)
+![image](https://user-images.githubusercontent.com/86208680/176915641-90143fa8-1c0b-4905-9c3e-81b584234425.png)
 
   
 # Final Milestone
